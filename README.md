@@ -14,14 +14,26 @@ trends in topics and difficulty levels across different tech categories.
 - Pivot Tables
 - Data Visualization (Charts)
 
+## Visualizations
+
+### Questions by Category
+![Questions by Category](chart1-category.png)
+
+### Difficulty Distribution
+![Difficulty Distribution](chart2-difficulty.png)
+
+### Category vs Difficulty Breakdown
+![Category vs Difficulty](chart3-category-difficulty.png)
+
 ## Key Insights
-- Most common category: [your finding]
-- Difficulty split: 33.3% Medium, 7.6% Easy, 7.1% Hard
-- Hardest category: [AI/Datascience]
-- Easiest category: [General Software Engineering]
+- Total of 9,000 interview questions across multiple tech categories
+- Most common category: General Software Engineering
+- Difficulty split: Medium is most common, followed by Easy then Hard
+- Hardest category: AI/Data Science has the most Hard questions
+- Easiest category: General Software Engineering has the most Easy questions
 
 ## Project Structure
-- Raw Data sheet: Original cleaned dataset
-- Pivot Tables: Summary of questions by category and difficulty
-- Dashboard: Visual charts and key insights
-- Insights: Written findings and observationss
+- **Raw Data:** Original cleaned dataset
+- **Pivot Tables:** Summary of questions by category and difficulty
+- **Dashboard:** Visual charts and key insights
+- **Insights:** Written findings and observations

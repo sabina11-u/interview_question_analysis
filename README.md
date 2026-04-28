@@ -37,3 +37,9 @@ trends in topics and difficulty levels across different tech categories.
 - **Pivot Tables:** Summary of questions by category and difficulty
 - **Dashboard:** Visual charts and key insights
 - **Insights:** Written findings and observations
+  ## Dashboard
+Built an interactive dashboard using Google Looker Studio.
+
+![Dashboard](dashboard-top.png , dashboard-bottom.png)
+
+[View Live Dashboard](paste your looker studio link here)
